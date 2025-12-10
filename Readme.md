@@ -64,17 +64,3 @@ for biological data, including extensive preprocessing and model optimization.
 - Identification of strongly correlating genomic features (k-mers)
 - Discussion of limitations due to class imbalance and dataset scope
 
----
-
-## Repository structure
-
-```text
-.
-├── notebooks/
-│   ├── project1_water_quality.ipynb
-│   ├── project2_antibiotic_resistance.ipynb
-│
-├── reports/
-│   └── antibiotic_resistance_report.pdf
-│
-├── README.md
